@@ -28,16 +28,22 @@ Dataset Source: GroupLens Research
 ---
 ## Screenshots
 <img width="530" height="237" alt="image" src="https://github.com/user-attachments/assets/75064c98-4a8d-4cc2-bec4-b3bb9a2aadba" />
+
 Data Preview
 
 <img width="681" height="602" alt="image" src="https://github.com/user-attachments/assets/fb74868c-42d0-46a3-8a63-3a5d5ebd1d41" />
+
 Neural Collaborative Filtering Architecture
 
 <img width="620" height="502" alt="image" src="https://github.com/user-attachments/assets/00cdb01c-b4f4-46f8-8b0f-8679aac32478" />
+
 Model Training Performance
 
 <img width="538" height="437" alt="image" src="https://github.com/user-attachments/assets/9ad749d3-2a56-4451-91e6-81183f201db9" />
+
 Sample Recommendations
+
+---
 
 ## Model Architecture
 
